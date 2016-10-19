@@ -39,7 +39,7 @@ public class LonelyTwitterActivity extends Activity {
 	public ListView getOldTweetsList(){
 		return oldTweetsList;
 	}
-
+// test!
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
